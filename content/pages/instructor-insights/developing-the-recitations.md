@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9cd54542-9af7-b8e5-1429-ebe268c359eb
 title: Addressing Communication in Mathematics through Recitations
 uid: d67fd7d1-4643-b70e-c486-643c40f64013

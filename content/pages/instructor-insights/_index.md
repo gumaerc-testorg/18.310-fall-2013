@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 9cd54542-9af7-b8e5-1429-ebe268c359eb
 ---
@@ -51,28 +53,6 @@ GIR ![](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every fall
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with sliding chalkboards, two narrow tables in front of the chalkboards, three rows of tiered seating with tablet desks, A/V equipment, and an overhead projector.]({{< resource_file 01ed1c4a-60aa-c135-695c-fc8b4cc55af2 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    The lecture classroom featured sliding chalkboards, A/V equipment, and tiered seating for 81 students.
-    
-*   ![Classroom with three chalkboards and four long tables with 19 modern black chairs visible.]({{< resource_file cc43c8c0-8c7e-096a-3de0-018a841368dc >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations took place in classrooms that featured sliding chalkboards, tables, and seating for up to 30 students.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

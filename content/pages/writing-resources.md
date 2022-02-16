@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Writing Resources
 uid: 905d4790-2adb-1c3c-4fce-7cbc62f33659
 ---
@@ -60,7 +62,7 @@ LaTeX templates
 [Complex LaTeX skeleton for journal article (ZIP)]({{< baseurl >}}/resources/complexlatexskeleton)
 
 [Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)  
-You can make an equation online and then download an image of the equation to include in your document. If you don't know LaTeX, click "examples" & then click on an example. If you use Microsoft® Word, save as .png 300dpi
+You can make an equation online and then download an image of the equation to include in your document. If you don't know LaTeX, click "examples" & then click on an example. If you use Microsoft{{< sup "®" >}} Word, save as .png 300dpi
 
 [LyX Document Processor](http://www.lyx.org/)  
 "LyX combines the power and flexibility of TeX/LaTeX with the ease of use of a graphical interface." Please use document-->settings-->document class="article(AMS)" and fonts base size = 12.

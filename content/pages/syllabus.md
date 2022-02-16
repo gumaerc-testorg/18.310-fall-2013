@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3e5e4a5c-515e-3c68-e4e8-002cb2270fda
 ---
@@ -54,7 +56,7 @@ LaTeX / Word Processing
 
 [LaTeX](http://www.latex-project.org/) is a document preparation system which is very good at handling mathematical equations, and which has become a standard in several fields, including mathematics, physics, and computer science. If you are planning to go into one of these fields, we encourage you to learn it, and we will provide resources to help you do so.
 
-There are other scientific fields for which LaTeX is not the standard, and if you are in one of these majors, there is not really any need for you to learn it. In this case, feel free to use Microsoft® Word or another word processing system for your writing assignments and term paper. We do encourage you to figure out how to do equations properly in Word. Without any extra add-on's, the way Microsoft® Word handles equations is really quite cumbersome, but there is software available that fixes this. Unfortunately, we don't have any recommendations because we use LaTeX. But, remember, in all cases, you must save the file as a PDF before submitting it electronically.
+There are other scientific fields for which LaTeX is not the standard, and if you are in one of these majors, there is not really any need for you to learn it. In this case, feel free to use Microsoft{{< sup "®" >}} Word or another word processing system for your writing assignments and term paper. We do encourage you to figure out how to do equations properly in Word. Without any extra add-on's, the way Microsoft{{< sup "®" >}} Word handles equations is really quite cumbersome, but there is software available that fixes this. Unfortunately, we don't have any recommendations because we use LaTeX. But, remember, in all cases, you must save the file as a PDF before submitting it electronically.
 
 Grading
 -------

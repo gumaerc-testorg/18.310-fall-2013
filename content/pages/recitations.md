@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
 ---
@@ -10,7 +13,7 @@ uid: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
 {{< thopen >}}
 REC #
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 RECITATIONS
 {{< thclose >}}
 
@@ -18,7 +21,7 @@ RECITATIONS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 1
@@ -62,7 +65,7 @@ Write a proof: Do Problem 1 of [Homework 1 (PDF)]({{< baseurl >}}/resources/mit1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 2
@@ -104,7 +107,7 @@ Correct the wrong proof: Do Problem 1(b) of [Homework 2 (PDF)]({{< baseurl >}}/r
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 3
@@ -146,7 +149,7 @@ Revise lecture notes: Do Problem 1 of [Homework 3 (PDF)]({{< baseurl >}}/resourc
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 4
@@ -203,7 +206,7 @@ Do [Homework 5 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework5) using th
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 6
@@ -243,7 +246,7 @@ Work on [Homework 6 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework6): Te
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 7
@@ -283,7 +286,7 @@ Do [Homework 7 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework7): Write a
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 8
@@ -338,7 +341,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 10
@@ -378,7 +381,7 @@ Revise the term paper as described in Problem 1 of [Homework 9 (PDF)]({{< baseur
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 11
@@ -420,7 +423,7 @@ None
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 12
