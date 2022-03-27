@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
 resourcetype: Other
 title: chernoff.tex
 uid: ae4a84c6-54f1-c40b-a568-a0005b331d0b

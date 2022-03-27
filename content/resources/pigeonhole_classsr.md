@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 905d4790-2adb-1c3c-4fce-7cbc62f33659
 resourcetype: Other
 title: pigeonhole_classSR.tex
 uid: 4cb4f1af-fb5c-8dcb-259f-78c1ec8a4e7a

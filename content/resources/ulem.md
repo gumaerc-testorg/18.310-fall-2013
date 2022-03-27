@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
 resourcetype: Other
 title: ulem.sty
 uid: 87b6e3f0-5a0f-9cdc-13d2-da2c7d83cafb

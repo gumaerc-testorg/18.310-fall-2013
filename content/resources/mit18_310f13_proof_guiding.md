@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 905d4790-2adb-1c3c-4fce-7cbc62f33659
 resourcetype: Document
 title: MIT18_310F13_proof_guiding.pdf
 uid: 8dc18461-8f99-61f1-f1b8-77e72e8be93a

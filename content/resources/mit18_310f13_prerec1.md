@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
 resourcetype: Document
 title: 18.310C Pre-recitation Assignment 1
 uid: 03af54d5-7c96-712e-9a55-97b8700b56f7

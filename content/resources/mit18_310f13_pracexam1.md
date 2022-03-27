@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: aceb9a38-5afa-b784-4f29-eae4479fb028
 resourcetype: Document
 title: 18.310 Exam 1 practice questions
 uid: 613c051a-8fcc-487c-36dd-83e85d32f699

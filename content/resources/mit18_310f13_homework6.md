@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: da91eead-061b-bf72-403e-0541333c7a07
 resourcetype: Document
 title: MIT18_310F13_Homework6.pdf
 uid: ba125f61-6522-0597-88a0-8e5a38bdb8df

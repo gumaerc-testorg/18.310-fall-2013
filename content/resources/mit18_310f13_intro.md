@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 905d4790-2adb-1c3c-4fce-7cbc62f33659
 resourcetype: Document
 title: Introduction to Latex
 uid: 5e1a98e4-bc4a-1bc1-965a-17a9b63ffed8

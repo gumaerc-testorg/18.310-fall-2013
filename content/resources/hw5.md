@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
 resourcetype: Other
 title: hw5.tex
 uid: 738b8fb1-55b8-8bd0-83cc-fc22968137b7

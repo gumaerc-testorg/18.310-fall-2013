@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 905d4790-2adb-1c3c-4fce-7cbc62f33659
 resourcetype: Document
 title: MaximumOverhang-SR.pdf
 uid: 8fbc7e51-a303-4c38-4559-78b8a7884ba2

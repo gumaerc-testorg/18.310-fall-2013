@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 905d4790-2adb-1c3c-4fce-7cbc62f33659
 resourcetype: Other
 title: skeleton.tex
 uid: 40cb7c81-bdad-23b3-6bc8-4d7a06d7449c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
 resourcetype: Other
 title: xcolor.sty
 uid: f6c3f779-c957-2599-8962-5c247a04202b

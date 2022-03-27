@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
 resourcetype: Document
 title: 18.310 Sketch of the Logic
 uid: 31e060e8-7aeb-c3b2-bb66-cb3020a6c020

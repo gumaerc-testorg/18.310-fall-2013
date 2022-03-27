@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 905d4790-2adb-1c3c-4fce-7cbc62f33659
 resourcetype: Document
 title: Avoiding Plagiarism in the Term Paper
 uid: 09a6a983-24b1-dd80-632c-55712d440678

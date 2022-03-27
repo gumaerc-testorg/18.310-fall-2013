@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 905d4790-2adb-1c3c-4fce-7cbc62f33659
 resourcetype: Other
 title: ComplexLaTeXSkeleton.zip
 uid: f40fb95b-b7f3-a93d-58dc-5870c2ac2f32

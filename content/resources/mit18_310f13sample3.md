@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
 resourcetype: Document
 title: 18.310 Sample Proofs 1 and 2
 uid: 77bd67ab-f463-5223-b590-08fb686ada70
