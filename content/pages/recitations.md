@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of recitations topics along with associated
+  pre-recitation assignments, recitation assignments, and post-recitation assignments.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -47,9 +49,9 @@ RECITATIONS
 
 **Pre-Recitation Assignment**
 
-Read the [Probability Theory (PDF)]({{< baseurl >}}/resources/mit18_310f13_ch1) lecture notes
+Read the {{% resource_link c234863b-3768-dd21-ae0c-0c4d7fa44af4 "Probability Theory (PDF)" %}} lecture notes
 
-Do [Pre-recitation Assignment 1 (PDF)]({{< baseurl >}}/resources/mit18_310f13_prerec1)
+Do {{% resource_link 03af54d5-7c96-712e-9a55-97b8700b56f7 "Pre-recitation Assignment 1 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -58,7 +60,7 @@ Do [Pre-recitation Assignment 1 (PDF)]({{< baseurl >}}/resources/mit18_310f13_pr
 
 **Post-Recitation Assignment**
 
-Write a proof: Do Problem 1 of [Homework 1 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework1)
+Write a proof: Do Problem 1 of {{% resource_link abf00d00-7c2e-d257-001d-191ed3c1f98d "Homework 1 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -91,7 +93,7 @@ Write a proof: Do Problem 1 of [Homework 1 (PDF)]({{< baseurl >}}/resources/mit1
 
 **Pre-Recitation Assignment**
 
-Do Problem 1(a) of [Homework 2 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework2)
+Do Problem 1(a) of {{% resource_link 994dd0e3-fb85-d106-f6d2-a9e8c25e38cc "Homework 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -100,7 +102,7 @@ Do Problem 1(a) of [Homework 2 (PDF)]({{< baseurl >}}/resources/mit18_310f13_hom
 
 **Post-Recitation Assignment**
 
-Correct the wrong proof: Do Problem 1(b) of [Homework 2 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework2)
+Correct the wrong proof: Do Problem 1(b) of {{% resource_link 994dd0e3-fb85-d106-f6d2-a9e8c25e38cc "Homework 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -133,7 +135,7 @@ Correct the wrong proof: Do Problem 1(b) of [Homework 2 (PDF)]({{< baseurl >}}/r
 
 **Pre-Recitation Assignment**
 
-Do [Pre-recitation Assignment 3 (PDF)]({{< baseurl >}}/resources/mit18_310f13_prerec3)
+Do {{% resource_link c157ab1e-e4dc-d9ba-a0bd-bc14ac5dc2d4 "Pre-recitation Assignment 3 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -142,7 +144,7 @@ Do [Pre-recitation Assignment 3 (PDF)]({{< baseurl >}}/resources/mit18_310f13_pr
 
 **Post-Recitation Assignment**
 
-Revise lecture notes: Do Problem 1 of [Homework 3 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework3) using these additional files [chernoff.tex (TEX)]({{< baseurl >}}/resources/chernoff), [ulem.sty (STY)]({{< baseurl >}}/resources/ulem), [xcolor.sty (STY)]({{< baseurl >}}/resources/xcolor)
+Revise lecture notes: Do Problem 1 of {{% resource_link 050ae617-c334-2f30-ae0b-8770eb41ca87 "Homework 3 (PDF)" %}} using these additional files {{% resource_link ae4a84c6-54f1-c40b-a568-a0005b331d0b "chernoff.tex (TEX)" %}}, {{% resource_link 87b6e3f0-5a0f-9cdc-13d2-da2c7d83cafb "ulem.sty (STY)" %}}, {{% resource_link f6c3f779-c957-2599-8962-5c247a04202b "xcolor.sty (STY)" %}}
 
 
 {{< tdclose >}}
@@ -165,11 +167,11 @@ Revise lecture notes: Do Problem 1 of [Homework 3 (PDF)]({{< baseurl >}}/resourc
 
 **Description**: Briefly summarize "[The Science of Scientific Writing](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/1)" by Gopen and Swan and use the worksheet (below) to solidify the ideas. Analyze Sample Proofs 1 and 2 (below), which are modified from the lecture notes to show how connectivity (cohesion) can be created by starting sentences with "old information that links backward" and using it to introduce the sentence's important new information. Sketch the proof's logic to demonstrate that although text is one-dimensional, it must communicate logic that is multidimensional. A sketch of the logic can provide ideas for how to approach this challenge.
 
-[Worksheet: Improving Information Order and Connectivity (PDF)]({{< baseurl >}}/resources/mit18_310f13_worksheet2)
+{{% resource_link 17a9ee99-4d31-de7f-c7ba-1eb2b8a0c4ec "Worksheet: Improving Information Order and Connectivity (PDF)" %}}
 
-[Sample Proofs 1 and 2 (PDF)]({{< baseurl >}}/resources/mit18_310f13sample3)
+{{% resource_link 77bd67ab-f463-5223-b590-08fb686ada70 "Sample Proofs 1 and 2 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sketch of the Logic (PDF)]({{< baseurl >}}/resources/mit18_310f13_proofsketch)
+{{% resource_link 31e060e8-7aeb-c3b2-bb66-cb3020a6c020 "Sketch of the Logic (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -181,7 +183,7 @@ Revise lecture notes: Do Problem 1 of [Homework 3 (PDF)]({{< baseurl >}}/resourc
 
 **Pre-Recitation Assignment**
 
-Carefully read Sections 1 and 2 of the [Generating Functions (PDF)]({{< baseurl >}}/resources/mit18_310f13_ch7) lecture notes
+Carefully read Sections 1 and 2 of the {{% resource_link 1d3495b2-adb2-dc35-cb8d-d1933398a647 "Generating Functions (PDF)" %}} lecture notes
 
 
 {{< tdclose >}}
@@ -190,7 +192,7 @@ Carefully read Sections 1 and 2 of the [Generating Functions (PDF)]({{< baseurl 
 
 **Post-Recitation Assignment**
 
-Do [Homework 5 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework5) using these additional files [hw5.tex (TEX)]({{< baseurl >}}/resources/hw5)
+Do {{% resource_link 7a28d504-1d4e-0f4c-3594-a0a3e1c4741e "Homework 5 (PDF)" %}} using these additional files {{% resource_link 738b8fb1-55b8-8bd0-83cc-fc22968137b7 "hw5.tex (TEX)" %}}
 
 
 {{< tdclose >}}
@@ -201,7 +203,7 @@ Do [Homework 5 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework5) using th
 5
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-**Review for Exam 1**: Work through [Practice Exam 1 (PDF)]({{< baseurl >}}/resources/mit18_310f13_pracexam1)
+**Review for Exam 1**: Work through {{% resource_link 613c051a-8fcc-487c-36dd-83e85d32f699 "Practice Exam 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +241,7 @@ None
 
 **Post-Recitation Assignment**
 
-Work on [Homework 6 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework6): Term paper assignment
+Work on {{% resource_link ba125f61-6522-0597-88a0-8e5a38bdb8df "Homework 6 (PDF)" %}}: Term paper assignment
 
 
 {{< tdclose >}}
@@ -270,7 +272,7 @@ Work on [Homework 6 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework6): Te
 
 **Pre-Recitation Assignment**
 
-Do [Pre-recitation Assignment 7 (PDF)]({{< baseurl >}}/resources/mit18_310f13_prerec7): Writing for your Audience
+Do {{% resource_link 858ec3ea-a507-1156-d8fb-60d35fa923a6 "Pre-recitation Assignment 7 (PDF)" %}}: Writing for your Audience
 
 
 {{< tdclose >}}
@@ -279,7 +281,7 @@ Do [Pre-recitation Assignment 7 (PDF)]({{< baseurl >}}/resources/mit18_310f13_pr
 
 **Post-Recitation Assignment**
 
-Do [Homework 7 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework7): Write an MIT News style article
+Do {{% resource_link 6da0fa06-4666-f99a-9a3f-94cf308e3647 "Homework 7 (PDF)" %}}: Write an MIT News style article
 
 
 {{< tdclose >}}
@@ -310,7 +312,7 @@ Do [Homework 7 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework7): Write a
 
 **Pre-Recitation Assignment**
 
-Before recitation, go over Section 4 (Dual) of the [Network Flows (PDF)]({{< baseurl >}}/resources/mit18_310f13_ch9) notes and observe the figure on page 6, which represents a dual solution to a maximum flow problem. Briefly, answer the following questions:
+Before recitation, go over Section 4 (Dual) of the {{% resource_link 3235079d-d74e-b61e-56f4-1ea2bb595d64 "Network Flows (PDF)" %}} notes and observe the figure on page 6, which represents a dual solution to a maximum flow problem. Briefly, answer the following questions:
 
 \- What is the purpose of the figure?
 
@@ -336,7 +338,7 @@ None
 9
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-**Review for Exam 2**: Work through [Practice Exam 2 (PDF)]({{< baseurl >}}/resources/mit18_310f13_pracexam2)
+**Review for Exam 2**: Work through {{% resource_link b9969506-844b-c7b9-d48c-86d41b078958 "Practice Exam 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -355,7 +357,7 @@ None
 
 **Writing Topics**: None
 
-**Description**: Work through [Problems Related to Euclid's Algorithm and Number Theory (PDF)]({{< baseurl >}}/resources/mit18_310f13_rec10).
+**Description**: Work through {{% resource_link 39e66195-4ba4-ac7f-5944-4220d221fb74 "Problems Related to Euclid's Algorithm and Number Theory (PDF)" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -374,7 +376,7 @@ None
 
 **Post-Recitation Assignment**
 
-Revise the term paper as described in Problem 1 of [Homework 9 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework9)
+Revise the term paper as described in Problem 1 of {{% resource_link 72d98d8e-0404-0464-c081-749762a3b9db "Homework 9 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -447,7 +449,7 @@ None
 
 **Pre-Recitation Assignment**
 
-Critique the term papers of two classmates as described in [Homework 10 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework10)
+Critique the term papers of two classmates as described in {{% resource_link 653e2005-b8c7-4e3d-b109-16a8226c0f04 "Homework 10 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -456,7 +458,7 @@ Critique the term papers of two classmates as described in [Homework 10 (PDF)]({
 
 **_Post-Recitation Assignment_**
 
-Revise the term paper in part based on the peer critique, as described in [Homework 6 (PDF)]({{< baseurl >}}/resources/mit18_310f13_homework6)
+Revise the term paper in part based on the peer critique, as described in {{% resource_link ba125f61-6522-0597-88a0-8e5a38bdb8df "Homework 6 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -467,7 +469,7 @@ Revise the term paper in part based on the peer critique, as described in [Homew
 13
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-**Review for Exam 3**: Work through [Practice Exam 3 (PDF)]({{< baseurl >}}/resources/mit18_310f13_pracexam3)
+**Review for Exam 3**: Work through {{% resource_link e44b77a0-88f3-978b-0b3f-d2bf50f7a34a "Practice Exam 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

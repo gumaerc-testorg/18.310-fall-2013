@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbook, requirements, collaboration policy, recitations,
+  software, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +19,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-[_18.02 Multivariable Calculus_](/courses/18-02-multivariable-calculus-fall-2007/)
+[_18.02 Multivariable Calculus_](/courses/18-02-multivariable-calculus-fall-2007)
 
 Description
 -----------
@@ -26,7 +29,7 @@ This course is an introduction to discrete applied mathematics. The topics prese
 Textbook
 --------
 
-There is no textbook; a full set of [lecture notes]({{< baseurl >}}/pages/lecture-notes) is provided.
+There is no textbook; a full set of {{% resource_link 9a763fe0-e59f-409f-b79a-803366095f7c "lecture notes" %}} is provided.
 
 Requirements
 ------------

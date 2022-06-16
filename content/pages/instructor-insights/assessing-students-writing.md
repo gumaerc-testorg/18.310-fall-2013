@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section Michel Goemans, Peter Shor, Lorenzo Orecchia, and Susan
+  Ruff share a variety of strategies they use to assess students' writing.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

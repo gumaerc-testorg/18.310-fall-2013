@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Michel Goemans, Peter Shor, Lorenzo Orecchia, and Susan
+  Ruff reflect on the use of recitations to address communicative aspects of mathematical
+  content.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -17,7 +20,7 @@ _In this section, Michel Goemans, Peter Shor, Lorenzo Orecchia, and Susan Ruff r
 Description and Purpose of the Recitations
 ------------------------------------------
 
-[Recitations]({{< baseurl >}}/pages/recitations), associated with this course, are weekly one-hour meetings, during which recitation leaders elaborate on subject matter introduced in the lectures and discuss effective communication of mathematics. Students typically complete pre-recitation assignments that prompt them to think about the content prior to the meeting. During the recitations, students and instructors examine the mathematical content of a writing sample and discuss how the content is communicated. Students then apply the concepts they’ve learned in their homework assignments.
+{{% resource_link 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1 "Recitations" %}}, associated with this course, are weekly one-hour meetings, during which recitation leaders elaborate on subject matter introduced in the lectures and discuss effective communication of mathematics. Students typically complete pre-recitation assignments that prompt them to think about the content prior to the meeting. During the recitations, students and instructors examine the mathematical content of a writing sample and discuss how the content is communicated. Students then apply the concepts they’ve learned in their homework assignments.
 
 The purpose of the recitations is to help students develop a critical appreciation of writing in mathematics. That is, we want students to understand that mathematics _is_ communication. We want students to appreciate that the way we understand mathematical concepts is related to the way we communicate those concepts, and that mathematicians have different styles of communication, and thus, of understanding mathematical phenomena.
 
@@ -39,7 +42,7 @@ During Fall 2013, we again taught with Lorenzo. We still met as a team (this tim
 Elements of Successful Recitations
 ----------------------------------
 
-We have found that our most successful recitations are those that authentically integrate subject matter and communication. The [“Incorrect Proof”]({{< baseurl >}}/resources/mit18_310f13_homework2) assignment is an example of a recitation assignment that does this in a particularly productive way. This assignment involves a brief probability proof, in which probabilities are multiplied because independence is assumed without that assumption being explicitly stated. That assumption is incorrect. So the mathematical purpose of the assignment is to increase students’ awareness of the importance of independence when multiplying probabilities, while the communication purpose is to illustrate the importance of explaining assumptions in sufficient detail to ensure that proofs are rigorous. Students revise the proof to practice this skill. 
+We have found that our most successful recitations are those that authentically integrate subject matter and communication. The {{% resource_link 994dd0e3-fb85-d106-f6d2-a9e8c25e38cc "“Incorrect Proof”" %}} assignment is an example of a recitation assignment that does this in a particularly productive way. This assignment involves a brief probability proof, in which probabilities are multiplied because independence is assumed without that assumption being explicitly stated. That assumption is incorrect. So the mathematical purpose of the assignment is to increase students’ awareness of the importance of independence when multiplying probabilities, while the communication purpose is to illustrate the importance of explaining assumptions in sufficient detail to ensure that proofs are rigorous. Students revise the proof to practice this skill. 
 
 During the recitation, students discuss their work and talk about the fact that it is difficult to “catch the bug” in the incorrect proof. They discuss the communicative aspects of the proof that contribute to this difficulty. Specifically, the recitation leaders help them attend to the use of the slightly ambiguous notation in the proof. The need to define notation properly becomes very clear. This assignment helps students develop precision and rigor in their writing.
 
