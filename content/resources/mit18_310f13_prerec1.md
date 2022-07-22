@@ -6,6 +6,7 @@ file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/03af5
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 18.310C Pre-recitation Assignment 1
 uid: 03af54d5-7c96-712e-9a55-97b8700b56f7
 ---
 This file contains the information regarding 18.310C pre-recitation assignment 1.
-

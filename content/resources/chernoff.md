@@ -5,6 +5,7 @@ file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/ae4a8
 file_type: text/x-tex
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chernoff.tex
 uid: ae4a84c6-54f1-c40b-a568-a0005b331d0b
 ---
 This is a special file that contains information regarding Chernoff bounds.
-

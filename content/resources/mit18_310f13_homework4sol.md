@@ -5,6 +5,7 @@ file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/edcab
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.310 Homework 4 Solutions
 uid: edcab1dd-646e-097c-cd16-afec627c2371
 ---
 This file contains the information regarding 18.310 homework 4 solutions.
-

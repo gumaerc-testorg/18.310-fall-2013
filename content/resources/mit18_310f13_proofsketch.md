@@ -5,6 +5,7 @@ file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/31e06
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.310 Sketch of the Logic
 uid: 31e060e8-7aeb-c3b2-bb66-cb3020a6c020
 ---
 This file contains information regarding sketch of the logic.
-

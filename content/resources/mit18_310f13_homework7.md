@@ -5,6 +5,7 @@ file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/6da0f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.310 Homework 7
 uid: 6da0fa06-4666-f99a-9a3f-94cf308e3647
 ---
 This file contains the information regarding 18.310 homework 7.
-

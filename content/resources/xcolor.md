@@ -5,6 +5,7 @@ file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/f6c3f
 file_type: text/x-tex
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: xcolor.sty
 uid: f6c3f779-c957-2599-8962-5c247a04202b
 ---
 This is a special file that contains information regarding xcolor.
-
