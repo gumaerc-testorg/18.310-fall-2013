@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section the course instructors discuss helping students cultivate
+  precision and rigor in their writing.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9cd54542-9af7-b8e5-1429-ebe268c359eb
 title: Helping Students Cultivate Precision and Rigor in their Writing
 uid: ed2af3b6-ee24-9d83-cec8-84a87c577769

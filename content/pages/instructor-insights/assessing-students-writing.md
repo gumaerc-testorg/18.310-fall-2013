@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section Michel Goemans, Peter Shor, Lorenzo Orecchia, and Susan
+  Ruff share a variety of strategies they use to assess students' writing.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9cd54542-9af7-b8e5-1429-ebe268c359eb
 title: Assessing Students' Writing
 uid: 3156858d-7740-7520-8e55-2dbbe37cfe24
