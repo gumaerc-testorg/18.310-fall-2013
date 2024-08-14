@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding ulem.
 file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/87b6e3f05a0f9cdc13d2da2c7d83cafb_ulem.sty
+file_size: 23756
 file_type: text/x-tex
 learning_resource_types:
 - Recitations

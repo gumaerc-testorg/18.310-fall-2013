@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding proof with guiding text
   .
 file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/8dc184618f9961f1f1b877e72e8be93a_MIT18_310F13_proof_guiding.pdf
+file_size: 188003
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
