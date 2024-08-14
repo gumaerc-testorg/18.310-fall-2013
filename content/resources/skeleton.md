@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding skeleton.
 file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/40cb7c81bdad23b36bc84d7a06d7449c_skeleton.tex
+file_size: 1984
 file_type: text/x-tex
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

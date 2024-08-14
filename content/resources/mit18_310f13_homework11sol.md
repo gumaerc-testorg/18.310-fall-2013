@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding 18.310 homework 11.
 file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/b384fa3a6b0db4b2e34d59bba9de7917_MIT18_310F13_Homework11Sol.pdf
+file_size: 177911
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/01ed1c4a60aac135695cfc8b4cc55af2_18-310_classroom-1.jpg
+file_size: 53333
 file_type: image/jpeg
 image_metadata:
   caption: ''
