@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding 18.310 homework 9.
-file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/72d98d8e04040464c081749762a3b9db_MIT18_310F13_Homework9.pdf
+file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/72d98d8e04040464c081749762a3b9db_MIT18_310F13_Homework9.pdf
 file_size: 159874
 file_type: application/pdf
 learning_resource_types:

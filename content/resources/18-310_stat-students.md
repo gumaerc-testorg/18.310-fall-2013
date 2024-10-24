@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/c6e337b4cefae4a92a9071b9267f9bf9_18-310_stat-students.png
+file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/c6e337b4cefae4a92a9071b9267f9bf9_18-310_stat-students.png
 file_size: 2817
 file_type: image/png
 image_metadata:
