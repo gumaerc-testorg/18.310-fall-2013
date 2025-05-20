@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding sketch of the logic.
-file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/31e060e87aebc3b2bb66cb3020a6c020_MIT18_310F13_proofsketch.pdf
+file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/31e060e87aebc3b2bb66cb3020a6c020_MIT18_310F13_proofsketch.pdf
 file_size: 152439
 file_type: application/pdf
 learning_resource_types:

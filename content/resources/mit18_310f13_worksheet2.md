@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding worksheet: improving information
   order and connectivity.'
-file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/17a9ee994d31de7fc7ba1eb2b8a0c4ec_MIT18_310F13_Worksheet2.pdf
+file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/17a9ee994d31de7fc7ba1eb2b8a0c4ec_MIT18_310F13_Worksheet2.pdf
 file_size: 183659
 file_type: application/pdf
 learning_resource_types:

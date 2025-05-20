@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding 18.310 exam1 practice questions.
-file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/613c051a8fcc487c36dd83e85d32f699_MIT18_310F13_PracExam1.pdf
+file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/613c051a8fcc487c36dd83e85d32f699_MIT18_310F13_PracExam1.pdf
 file_size: 134479
 file_type: application/pdf
 learning_resource_types:

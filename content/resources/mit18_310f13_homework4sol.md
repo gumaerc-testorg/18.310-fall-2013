@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding 18.310 homework 4 solutions.
-file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/edcab1dd646e097ccd16afec627c2371_MIT18_310F13_Homework4Sol.pdf
+file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/edcab1dd646e097ccd16afec627c2371_MIT18_310F13_Homework4Sol.pdf
 file_size: 174662
 file_type: application/pdf
 learning_resource_types:
