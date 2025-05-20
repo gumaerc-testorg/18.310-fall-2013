@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding common comments on math
   papers.
-file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/dada47501c83239e81741e45629c2fd0_MIT18_310F13_code_comm.pdf
+file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/dada47501c83239e81741e45629c2fd0_MIT18_310F13_code_comm.pdf
 file_size: 230497
 file_type: application/pdf
 learning_resource_types: []

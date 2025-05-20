@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding introduction to laTeX.
-file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/5e1a98e4bc4a1bc1965a17a9b63ffed8_MIT18_310F13_intro.pdf
+file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/5e1a98e4bc4a1bc1965a17a9b63ffed8_MIT18_310F13_intro.pdf
 file_size: 113532
 file_type: application/pdf
 learning_resource_types: []

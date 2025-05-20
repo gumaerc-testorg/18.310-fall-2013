@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding sample proofs
   1 and 2.
-file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/77bd67abf4635223b59008fb686ada70_MIT18_310F13sample3.pdf
+file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/77bd67abf4635223b59008fb686ada70_MIT18_310F13sample3.pdf
 file_size: 179037
 file_type: application/pdf
 learning_resource_types:

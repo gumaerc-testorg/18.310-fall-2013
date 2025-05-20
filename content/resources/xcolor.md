@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding xcolor.
-file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/f6c3f779c957259989625c247a04202b_xcolor.sty
+file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/f6c3f779c957259989625c247a04202b_xcolor.sty
 file_size: 40164
 file_type: text/x-tex
 learning_resource_types:

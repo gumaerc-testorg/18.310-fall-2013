@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding MIT18_310F13_Homework10.
-file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/653e2005b8c74e3db10916a8226c0f04_MIT18_310F13_Homework10.pdf
+file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/653e2005b8c74e3db10916a8226c0f04_MIT18_310F13_Homework10.pdf
 file_size: 166479
 file_type: application/pdf
 learning_resource_types:
