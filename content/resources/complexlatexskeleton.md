@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/f40fb95bb7f3a93d58dc5870c2ac2f32_ComplexLaTeXSkeleton.zip
+file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/f40fb95bb7f3a93d58dc5870c2ac2f32_ComplexLaTeXSkeleton.zip
 file_size: 13883
 file_type: application/zip
 learning_resource_types: []
