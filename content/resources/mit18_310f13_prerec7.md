@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding 18.310C recitation 7: writing
   for your audience.'
-file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/858ec3eaa5071156d8fb60d35fa923a6_MIT18_310F13_prerec7.pdf
+file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/858ec3eaa5071156d8fb60d35fa923a6_MIT18_310F13_prerec7.pdf
 file_size: 140832
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding 18.310 homework 8 solution.
-file: /courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/98c3f09682eb11ab288fd3e19a9eb790_MIT18_310F13_Homework8Sol.pdf
+file: /ol-ocw-studio-app/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/98c3f09682eb11ab288fd3e19a9eb790_MIT18_310F13_Homework8Sol.pdf
 file_size: 213108
 file_type: application/pdf
 learning_resource_types:
