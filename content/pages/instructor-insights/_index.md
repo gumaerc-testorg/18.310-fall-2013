@@ -45,8 +45,8 @@ GIR ![](/images/educator/icon-question-gir.png)
 
 ### Requirements Satisfied
 
-- CI-M ![](/images/educator/icon-question-cim.png) in [Mathematics](http://web.mit.edu/commreq/cim/course18.html)
-- 18.310 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/).
+- CI-M ![](/images/educator/icon-question-cim.png) in {{% resource_link "7e76effc-35e5-405f-81b9-4f3a77871173" "Mathematics" %}}
+- 18.310 can be applied toward a {{% resource_link "981f64b0-d2c6-4bf3-878f-7f53a8095665" "Bachelor of Science in Mathematics" %}}.
 
 ### Offered
 
