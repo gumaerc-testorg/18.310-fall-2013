@@ -34,7 +34,7 @@ There is no textbook; a full set of {{% resource_link 9a763fe0-e59f-409f-b79a-80
 Requirements
 ------------
 
-This is a CI-M ({{% resource_link "843f03b4-0742-4653-867c-88c144a269c9" "Communication Intensive in the Major" %}}) course, and thus teaches students to write mathematics. This component will take the form of writing assignments in homework problems; one of them will be a relatively long (several pages) term paper whose writing will take several iterations spread between mid October and the end of the Fall term.
+This is a CI-M ([Communication Intensive in the Major](http://web.mit.edu/commreq/faculty%20ci-m.html)) course, and thus teaches students to write mathematics. This component will take the form of writing assignments in homework problems; one of them will be a relatively long (several pages) term paper whose writing will take several iterations spread between mid October and the end of the Fall term.
 
 The homework assignments (the problem sets and writing assignments) must all be submitted electronically (the only exceptions are the pre-recitation assignments, see the recitation section below). Carefully read the instructions on each problem set. Homework will generally be due one week after it is assignment.
 
@@ -57,7 +57,7 @@ For some of the recitations, there will be a pre-recitation assignment. These wi
 LaTeX / Word Processing
 -----------------------
 
-{{% resource_link "60be2af1-0af8-423f-94c3-42a6ac8a4d97" "LaTeX" %}} is a document preparation system which is very good at handling mathematical equations, and which has become a standard in several fields, including mathematics, physics, and computer science. If you are planning to go into one of these fields, we encourage you to learn it, and we will provide resources to help you do so.
+[LaTeX](http://www.latex-project.org/) is a document preparation system which is very good at handling mathematical equations, and which has become a standard in several fields, including mathematics, physics, and computer science. If you are planning to go into one of these fields, we encourage you to learn it, and we will provide resources to help you do so.
 
 There are other scientific fields for which LaTeX is not the standard, and if you are in one of these majors, there is not really any need for you to learn it. In this case, feel free to use Microsoft{{< sup "®" >}} Word or another word processing system for your writing assignments and term paper. We do encourage you to figure out how to do equations properly in Word. Without any extra add-on's, the way Microsoft{{< sup "®" >}} Word handles equations is really quite cumbersome, but there is software available that fixes this. Unfortunately, we don't have any recommendations because we use LaTeX. But, remember, in all cases, you must save the file as a PDF before submitting it electronically.
 

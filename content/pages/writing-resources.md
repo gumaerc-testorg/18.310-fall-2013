@@ -16,7 +16,7 @@ This example illustrates how to write a proof and how to use guiding text to hel
 
 {{% resource_link "8fbc7e51-a303-4c38-4559-78b8a7884ba2" "Annotated Journal Article (PDF)" %}}   
 This annotated journal article\* illustrates structuring a longer paper and various other math writing conventions and strategies.   
-\*Paterson, M., Y. Peres, et al. "{{% resource_link "48bed5f1-4e8f-4b95-98f7-1e3b67e90e8e" "Maximum Overhang" %}}". *American Mathematical Monthly* 116, no. 9 (2009): 763–87.
+\*Paterson, M., Y. Peres, et al. "[Maximum Overhang](http://www.maa.org/programs/maa-awards/writing-awards/maximum-overhang)". *American Mathematical Monthly* 116, no. 9 (2009): 763–87.
 
 {{% resource_link "856654de-eaff-4f8d-f018-125366be5ac1" "Acknowledging sources (PDF)" %}}   
 This one-page handout describes when and how to acknowledge/cite sources. It was written for term papers, but much of the advice applies to shorter writing as well.
@@ -26,10 +26,10 @@ This is a list of common comments compiled from when the course was taught durin
 
 ## Links
 
-{{% resource_link "da9e3ef8-71b1-4523-b4d0-b9bc6214f1a6" "The Writing and Communication Center" %}}   
-The Writing and Communication Center (part of {{% resource_link "95557b23-725f-4541-bdea-369db6e95e54" "MIT's Comparative Media Studies program" %}}) offers several services to MIT undergraduate students, graduate students, and post-docs. They can get free individual consultation about any writing difficulty, from questions about grammar to matters of style, including difficulties common to writers, such as overcoming writer's block, organizing papers, taking essay exams, revising one's work, or presenting scientific information. \[Note: These services are not available to OCW users.\]
+[The Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/)   
+The Writing and Communication Center (part of [MIT's Comparative Media Studies program](https://oge.mit.edu/programs/comparative-media-studies/)) offers several services to MIT undergraduate students, graduate students, and post-docs. They can get free individual consultation about any writing difficulty, from questions about grammar to matters of style, including difficulties common to writers, such as overcoming writer's block, organizing papers, taking essay exams, revising one's work, or presenting scientific information. \[Note: These services are not available to OCW users.\]
 
-{{% resource_link "1570eabb-f02b-4409-8d64-696e6bf5e107" "Purdue OWL" %}} (Online Writing Lab) This is a website for non-mathematical writing questions (e.g., grammar) and is openly available. It offers over 200 free resources including:
+[Purdue OWL](http://owl.english.purdue.edu/) (Online Writing Lab) This is a website for non-mathematical writing questions (e.g., grammar) and is openly available. It offers over 200 free resources including:
 
 - Writing and Teaching Writing
 - Research
@@ -38,7 +38,7 @@ The Writing and Communication Center (part of {{% resource_link "95557b23-725f-4
 - ESL (English as a Second Language)
 - Job Search and Professional Writing
 
-{{% resource_link "50a5178f-a906-4429-a5f1-810aa4659b59" "MIT's Academic Integrity Handbook" %}}   
+[MIT's Academic Integrity Handbook](http://integrity.mit.edu/)   
 This handbook outlines important information you will need to know about correctly acknowledging your sources when you write a report, research paper, critical essay, or position paper. It provides guidelines for collaboration on assignments and writing code.
 
 {{% resource_link "09a6a983-24b1-dd80-632c-55712d440678" "Math supplement for Academic Integrity Handbook (PDF)" %}}   
@@ -46,7 +46,7 @@ This document contains an example of how to rewrite a theorem and proof "in your
 
 ## LaTeX Resources
 
-{{% resource_link "60be2af1-0af8-423f-94c3-42a6ac8a4d97" "LaTeX – A document preparation system" %}}   
+[LaTeX – A document preparation system](http://www.latex-project.org/)   
 Information about LaTeX and a source to download the software for free.
 
 How to get started with LaTeX
@@ -61,8 +61,8 @@ LaTeX templates
 
 {{% resource_link "f40fb95b-b7f3-a93d-58dc-5870c2ac2f32" "Complex LaTeX skeleton for journal article (ZIP)" %}}
 
-{{% resource_link "a3f07008-8dfb-4f51-8413-2517edf3f200" "Online LaTeX Equation Editor" %}}   
+[Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)   
 You can make an equation online and then download an image of the equation to include in your document. If you don't know LaTeX, click "examples" & then click on an example. If you use Microsoft{{< sup "®" >}} Word, save as .png 300dpi
 
-{{% resource_link "7752a176-6486-403b-8a69-92a7249df8fd" "LyX Document Processor" %}}   
+[LyX Document Processor](http://www.lyx.org/)   
 "LyX combines the power and flexibility of TeX/LaTeX with the ease of use of a graphical interface." Please use document-->settings-->document class="article(AMS)" and fonts base size = 12.

@@ -89,7 +89,7 @@ Revise lecture notes: Do Problem 1 of {{% resource_link "050ae617-c334-2f30-ae0b
 
 **Writing Topics**: Information Order and Connectivity (Cohesion)
 
-**Description**: Briefly summarize "{{% resource_link "1c9fffed-eaba-4c0f-9fd0-6cca6698d5aa" "The Science of Scientific Writing" %}}" by Gopen and Swan and use the worksheet (below) to solidify the ideas. Analyze Sample Proofs 1 and 2 (below), which are modified from the lecture notes to show how connectivity (cohesion) can be created by starting sentences with "old information that links backward" and using it to introduce the sentence's important new information. Sketch the proof's logic to demonstrate that although text is one-dimensional, it must communicate logic that is multidimensional. A sketch of the logic can provide ideas for how to approach this challenge.
+**Description**: Briefly summarize "[The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)" by Gopen and Swan and use the worksheet (below) to solidify the ideas. Analyze Sample Proofs 1 and 2 (below), which are modified from the lecture notes to show how connectivity (cohesion) can be created by starting sentences with "old information that links backward" and using it to introduce the sentence's important new information. Sketch the proof's logic to demonstrate that although text is one-dimensional, it must communicate logic that is multidimensional. A sketch of the logic can provide ideas for how to approach this challenge.
 
 {{% resource_link "17a9ee99-4d31-de7f-c7ba-1eb2b8a0c4ec" "Worksheet: Improving Information Order and Connectivity (PDF)" %}}
 

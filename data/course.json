@@ -37,7 +37,7 @@
     "website": "18-310-principles-of-discrete-applied-mathematics-fall-2013"
   },
   "course_title": "Principles of Discrete Applied Mathematics",
-  "course_description": "This course is an introduction to discrete applied mathematics. Topics include probability, counting, linear programming, number-theoretic algorithms, sorting, data compression, and error-correcting codes. This is a {{% resource_link \"1d0b39f2-01c1-4e3c-8c7f-790c41554858\" \"Communication Intensive in the Major\" %}} (CI-M) course, and thus includes a writing component.",
+  "course_description": "This course is an introduction to discrete applied mathematics. Topics include probability, counting, linear programming, number-theoretic algorithms, sorting, data compression, and error-correcting codes. This is a [Communication Intensive in the Major](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) (CI-M) course, and thus includes a writing component.",
   "department_numbers": [
     "18"
   ],
